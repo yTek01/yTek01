@@ -2,7 +2,7 @@
 - 👀 I’m interested in automation and information technology
 - 🌱 I’m currently learning problem solving in Golang
 - 💞️ I’m looking to collaborate on databricks
-- 📫 How to reach me on https://www.linkedin.com/in/omolayo-olasehinde-78b18691/
+- 📫 How to reach me on olasehindeomolayo9@gmail.com
 
 <!---
 yTek01/yTek01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
